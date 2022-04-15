@@ -1,0 +1,189 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-color: rgb(19, 12, 12);
+}
+
+form {
+    background-color: rgb(19, 12, 12);
+    width: 500px;
+    height: 550px;
+    margin: 80px auto;
+    ;
+}
+
+
+input[target="signupbutton"] {
+    text-align: center;
+    color: white;
+    background: green;
+    font-size: 20px;
+    padding: 20px 20px;
+    width: 46%;
+    margin-top: 20px;
+    border: none;
+}
+
+input[target="signupbutton"]:hover {
+    color: white;
+    background: lightgreen;
+    font-size: 20px;
+    padding: 20px 20px;
+}
+
+input[target="loginbutton"] {
+    color: white;
+    background-color: rgb(19, 12, 12);
+    font-size: 20px;
+    padding: 20px 20px;
+    width: 46%;
+    border: none;
+    cursor: pointer;
+
+}
+
+input[target="loginbutton"]:hover {
+    color: white;
+    background: lightgreen;
+    font-size: 20px;
+    padding: 20px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+input[target="logingreen"] {
+    color: white;
+    background: green;
+    font-size: 40px;
+    width: 46%;
+    border: none;
+    cursor: pointer;
+
+
+}
+
+input[target="signupblack"] {
+    color: white;
+    background-color: rgb(19, 12, 12);
+    font-size: 40px;
+    width: 46%;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 20px 20px;
+    border: none;
+    cursor: pointer;
+
+
+}
+
+input[target="signupblack"]:hover {
+    color: white;
+    background: lightgreen;
+    font-size: 20px;
+    padding: 20px 20px;
+    border: none;
+}
+
+input[target="getstartedbutton"] {
+    color: white;
+    background: rgb(132, 204, 132);
+    font-size: 20px;
+    padding: 10px 10px;
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size: 20px;
+    padding: 20px 20px;
+    width: 92%;
+    border: none;
+    cursor: pointer;
+}
+
+input[target="LOGIN"] {
+    color: white;
+    background: rgb(132, 204, 132);
+    font-size: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+    padding: 20px 20px;
+    margin-top: 20px;
+    width: 92%;
+    border: none;
+}
+
+label[target="headline"] {
+    color: white;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.headline-signup {
+    text-align: center;
+    margin: 20px 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.headline-welcomeback {
+    text-align: center;
+    margin: 20px 0;
+}
+
+input[target="firstnamefield"] {
+    background: black;
+    border: 1px solid white;
+    width: 46%;
+    margin: 20px 2px;
+    padding: 20px 20px;
+}
+
+input[target="lastnamefield"] {
+    background: black;
+    border: 1px solid white;
+    width: 46%;
+    margin: 20px 5px;
+    padding: 20px 20px;
+}
+
+input[target="email"] {
+    background: black;
+    border: 1px solid white;
+    width: 92%;
+    margin: 20px 20px;
+    padding: 20px 20px;
+}
+
+input[target="password"] {
+    background: black;
+    border: 1px solid white;
+    width: 92%;
+    margin: 20px 20px;
+    padding: 20px 20px;
+}
+
+.forgotpw {
+    text-align: right;
+    margin: 70px 20px 0 0;
+
+}
+
+input[target="logingreen"] {
+    color: white;
+    background: green;
+    font-size: 20px;
+    padding: 20px 20px;
+}
+
+div a {
+    color: green;
+}
+
+.container-buttons-signup4free {
+    text-align: center;
+}
+
+.inputNames {
+    margin-left: 20px;
+}
